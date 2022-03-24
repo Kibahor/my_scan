@@ -1,0 +1,102 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MyScan.Vue"
+      xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+      xmlns:uc="clr-namespace:MyScan.ControlUtilisateur"
+      xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls" 
+      x:Class="MyScan.Vue.Parametre"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="800"
+      Title="Paramètres">
+
+    <Page.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontSize" Value="20" />
+        </Style>
+    </Page.Resources>
+    <mah:MetroAnimatedTabControl mah:TabControlHelper.UnderlinePlacement="Bottom" mah:TabControlHelper.Underlined="SelectedTabItem">
+        <TabItem Header="Paramètres">
+            <StackPanel>
+                <Grid Margin="30">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Grid.Row="0" Margin="10">
+                        <uc:TextUnderline Texte="Thème" Taille="20"/>
+                        <TextBlock Margin="0,10,0,0" FontSize="15" TextWrapping="Wrap">Pour changer la couleur de l'application, il vous suffit de cliquer sur une des couleurs ci-dessous :</TextBlock>
+                        <WrapPanel Margin="0,10,0,0">
+                            <WrapPanel.Resources>
+                                <Style TargetType="Button" BasedOn="{StaticResource MahApps.Styles.Button}">
+                                    <Setter Property="Width" Value="50"/>
+                                    <Setter Property="Height" Value="50"/>
+                                    <Setter Property="Margin" Value="0,0,10,0"/>
+                                </Style>
+                            </WrapPanel.Resources>
+
+                            <Button Name="Blue" Background="#0078D7" Click="Theme_Button_Click"/>
+                            <Button Name="Red" Background="#EA1400" Click="Theme_Button_Click"/>
+                            <Button Name="Orange" Background="#FA6800"  Click="Theme_Button_Click"/>
+                            <Button Name="Yellow" Background="#F3B53B"  Click="Theme_Button_Click"/>
+                            <Button Name="Green" Background="#60A917"  Click="Theme_Button_Click"/>
+                            <Button Name="Purple" Background="#AA00FF"  Click="Theme_Button_Click"/>
+                            <Button Name="Mauve" Background="#95608A"  Click="Theme_Button_Click"/>
+                        </WrapPanel>
+                        <TextBlock Margin="0,10,0,0" FontSize="15">Mode Nuit</TextBlock>
+                        <mah:ToggleSwitch x:Name="ToggleModeNuit" IsOn="{Binding ModeNuit, Mode=OneTime}" Toggled="ToggleSwitch_Toggled"/>
+                    </StackPanel>
+                    <StackPanel Grid.Row="1" Margin="10">
+                        <uc:TextUnderline Texte="Notification" Taille="20"/>
+                        <TextBlock Margin="0,10,0,0" FontSize="15">Voulez-vous recevoir des notifications ?</TextBlock>
+                        <mah:ToggleSwitch IsEnabled="False"/>
+                    </StackPanel>
+                </Grid>
+            </StackPanel>
+        </TabItem>
+        <TabItem Header="Compte">
+            <StackPanel>
+                <Grid Margin="30" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+
+                    <Border BorderThickness="2" BorderBrush="{DynamicResource MahApps.Brushes.Button.Border}">
+                        <Image Grid.Row="0" MinHeight="150" MinWidth="150" MaxHeight="150" HorizontalAlignment="Center" Source="{Binding Avatar,Mode=OneWay}"/>
+                    </Border>
+
+                    <WrapPanel Grid.Row="0" Grid.Column="1" Margin="20" Orientation="Vertical" VerticalAlignment="Center">
+                        <TextBlock Text="{Binding Pseudo}" />
+                        <TextBlock>
+                            <Run Text="{Binding Nom,Mode=OneWay}"/>
+                            <Run Text="{Binding Prenom,Mode=OneWay}"/>
+                        </TextBlock>
+                    </WrapPanel>
+
+
+                    <StackPanel Grid.Row="1" Grid.ColumnSpan="2" Margin="30" MaxWidth="250" Width="250">
+                        <TextBlock x:Name="ValueNotValide" Text="un ou plusieurs champs sont vides" HorizontalAlignment="Center" Foreground="Red" Visibility="Collapsed" FontSize="14"/>
+                        <Label Content="Chemin Avatar (Optionnel)"/>
+                        <TextBox controls:TextBoxHelper.Watermark="C:\User\Kevin\Images\Avatar.jpg" x:Name="TextBox_Avatar"/>
+                        <TextBlock x:Name="FileNotExist" Text="Le fichier n'existe pas" HorizontalAlignment="Right" Foreground="Red" Visibility="Collapsed" FontSize="14"/>
+                        <Label Content="Pseudo"/>
+                        <TextBox controls:TextBoxHelper.Watermark="Xx_Kevin95_xX" x:Name="TextBox_Pseudo"/>
+                        <Label Content="Nom"/>
+                        <TextBox controls:TextBoxHelper.Watermark="Kevin" x:Name="TextBox_Nom"/>
+                        <Label Content="Prenom"/>
+                        <TextBox controls:TextBoxHelper.Watermark="Bertrand" x:Name="TextBox_Prenom"/>
+
+                        <Button Margin="0,15,0,0" Content="Changer le Profile" Style="{DynamicResource MahApps.Styles.Button.Dialogs.Accent}" Click="Profile_Button_Click"/>
+                    </StackPanel>
+                </Grid>
+            </StackPanel>
+        </TabItem>
+    </mah:MetroAnimatedTabControl>
+</Page>

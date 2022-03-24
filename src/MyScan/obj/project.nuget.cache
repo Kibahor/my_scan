@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xjzOZemTLKMMusLrOJKThEMSKXU6lapg5uSSckSob0G5ks1mLs7DwgpWDtbg2toK4yVepxDnz2XeqaErxdOOEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lukas Blouin\\Documents\\Projet\\MyScan\\myscan\\src\\MyScan\\MyScan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lukas Blouin\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\Lukas Blouin\\.nuget\\packages\\mahapps.metro\\2.4.5\\mahapps.metro.2.4.5.nupkg.sha512",
+    "C:\\Users\\Lukas Blouin\\.nuget\\packages\\mahapps.metro.iconpacks\\4.8.0\\mahapps.metro.iconpacks.4.8.0.nupkg.sha512",
+    "C:\\Users\\Lukas Blouin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\Lukas Blouin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Lukas Blouin\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

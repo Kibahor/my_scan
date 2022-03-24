@@ -1,0 +1,20 @@
+﻿MyScan
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\obj\Release\netcoreapp3.1\
+MyScan
+none
+false
+TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1;
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\App.xaml
+8-1877225719
+
+17-1108987500
+228-525516872
+ControlUtilisateur\FicheScan.xaml;ControlUtilisateur\TextUnderline.xaml;MainWindow.xaml;Vue\Accueil.xaml;Vue\Description.xaml;Vue\Login.xaml;Vue\ModifierScan.xaml;Vue\Parametre.xaml;
+
+False
+

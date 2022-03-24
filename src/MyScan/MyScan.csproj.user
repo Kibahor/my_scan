@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+    <_LastSelectedProfileId>C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="ControlUtilisateur\FicheScan.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ControlUtilisateur\TextUnderline.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Vue\Accueil.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Vue\Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Vue\Description.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Vue\Parametre.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Vue\ModifierScan.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="ControlUtilisateur\FicheScan.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ControlUtilisateur\TextUnderline.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Vue\Accueil.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Vue\Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Vue\Description.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Vue\Parametre.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Vue\ModifierScan.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

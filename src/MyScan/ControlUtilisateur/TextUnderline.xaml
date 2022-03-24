@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="MyScan.ControlUtilisateur.TextUnderline"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MyScan.ControlUtilisateur"
+             mc:Ignorable="d" 
+             d:DesignHeight="50" d:DesignWidth="50">
+    <DockPanel LastChildFill="False" HorizontalAlignment="Left">
+        <TextBlock DockPanel.Dock="Top" x:Name="TextBlock" Text="{Binding Texte}" Margin="0,0,0,2" Width="auto" FontSize="{Binding Taille}"/>
+        <Rectangle DockPanel.Dock="Top" Fill="{DynamicResource MahApps.Brushes.Button.Border}" Height="1" Width="{Binding ElementName=TextBlock, Path=ActualWidth}" />
+    </DockPanel>
+</UserControl>

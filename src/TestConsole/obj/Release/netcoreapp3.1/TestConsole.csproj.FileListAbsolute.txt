@@ -1,0 +1,4 @@
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\TestConsole\obj\Release\netcoreapp3.1\TestConsole.csprojAssemblyReference.cache
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\TestConsole\obj\Release\netcoreapp3.1\TestConsole.AssemblyInfoInputs.cache
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\TestConsole\obj\Release\netcoreapp3.1\TestConsole.AssemblyInfo.cs
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\TestConsole\obj\Release\netcoreapp3.1\TestConsole.csproj.CoreCompileInputs.cache

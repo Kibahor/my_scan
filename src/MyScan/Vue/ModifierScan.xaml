@@ -1,0 +1,83 @@
+﻿<mah:MetroWindow  
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls" 
+        x:Class="MyScan.Vue.ModifierScan"
+        xmlns:uc="clr-namespace:MyScan.ControlUtilisateur"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:local="clr-namespace:MyScan.Vue" xmlns:System="clr-namespace:System;assembly=System.Runtime"
+        mc:Ignorable="d"
+        Title="Modifier" 
+        Height="520" Width="600"
+        WindowStartupLocation="CenterScreen"                      
+        d:Height="520" d:Width="600">
+
+    <ScrollViewer Background="{DynamicResource MahApps.Brushes.Window.Background}">
+        <ScrollViewer.Resources>
+            <Style TargetType="Label">
+                <Setter Property="FontSize" Value="14"/>
+                <Setter Property="Margin" Value="0,0,20,0"/>
+                <Setter Property="FontWeight" Value="DemiBold"/>
+            </Style>
+            <Style TargetType="StackPanel">
+                <Setter Property="Margin" Value="10"/>
+            </Style>
+        </ScrollViewer.Resources>
+        
+        <Grid HorizontalAlignment="Center" Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" Grid.ColumnSpan="2" Text="Modifier un Scan" FontSize="24"/>
+            
+            <StackPanel Grid.Row="1">
+                <Label Content="Titre"/>
+                <TextBox x:Name="TextBox_Titre" Text="{Binding Nom, Mode=OneTime}" controls:TextBoxHelper.Watermark="One Piece" MaxLength="30"/>
+                <TextBlock x:Name="TitleNotValide" Text="Le champs ne peut être vide" HorizontalAlignment="Right" Foreground="Red" Visibility="Collapsed"/>
+
+                <Label Content="Auteur"/>
+                <TextBox x:Name="TextBox_Auteur" Text="{Binding Auteur, Mode=OneTime}" controls:TextBoxHelper.Watermark="Eiichirō Oda" MaxLength="30"/>
+
+                <Label Content="Genre"/>
+                <TextBox x:Name="TextBox_Genre" Text="{Binding Genre, Mode=OneTime}" controls:TextBoxHelper.Watermark="Nekketsu" MaxLength="60"/>
+
+                <Label Content="Classification"/>
+                <TextBox x:Name="TextBox_Classification" Text="{Binding Classification, Mode=OneTime}" controls:TextBoxHelper.Watermark="Shōnen" MaxLength="30"/>
+            </StackPanel>
+
+
+            <StackPanel Grid.Row="1" Grid.Column="1">
+                <Label Content="Date de Parution" />
+                <DatePicker x:Name="DatePicker_DateDeParution" SelectedDate="{Binding DateParution, Mode=OneTime}" controls:TextBoxHelper.Watermark="22/05/1997"/>
+                
+                <Label Content="Status"/>
+                <ComboBox x:Name="ComboBox_Status">
+                    <System:String>En Cours</System:String>
+                    <System:String>Fini</System:String>
+                    <System:String>Abandonné</System:String>
+                </ComboBox>
+
+                <Label Content="Note"/>
+                <controls:NumericUpDown x:Name="TextBox_Note" Value="{Binding Note, Mode=OneTime}" controls:TextBoxHelper.Watermark="Note sur 5" Minimum="0" Maximum="5"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="2" Grid.ColumnSpan="2" HorizontalAlignment="Center">
+                <Label Content="Description"/>
+                <TextBox x:Name="TextBox_Description" Text="{Binding Description, Mode=OneTime}" MinWidth="500" MinHeight="100" TextWrapping="Wrap" controls:TextBoxHelper.Watermark="Monkey D. Luffy au corps élastique, veut devenir Roi des pirates. Pour cela, il s'est mis en quête du légendaire trésor : « One piece ». Epaulé par ses compagnons de l'équipage au chapeau de paille, il arrive sur l'île de Dressrosa, pays de l'amour et de la passion. Mais il comprendra vite que sous le vernis des apparences, une réalité beaucoup moins idyllique gangrène la contrée."/>
+            </StackPanel>
+            <StackPanel Grid.Row="3" Grid.Column="1" HorizontalAlignment="Right" Orientation="Horizontal" Margin="0,20,0,0">
+                <Button Click="Esc_Button_Click" Margin="0,0,15,0" Content="Annuler" Style="{DynamicResource MahApps.Styles.Button.Dialogs}"/>
+                <Button Click="Save_Button_Click" Content="Sauvegarder" Style="{DynamicResource MahApps.Styles.Button.Dialogs.Accent}"/>
+            </StackPanel>
+        </Grid>
+    </ScrollViewer>
+</mah:MetroWindow>

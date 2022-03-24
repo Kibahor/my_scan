@@ -1,0 +1,66 @@
+﻿<Page x:Class="MyScan.Vue.Accueil"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls" 
+      xmlns:local="clr-namespace:MyScan.Vue"
+      xmlns:uc="clr-namespace:MyScan.ControlUtilisateur"
+      xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Accueil">
+
+    <Grid>
+        <DockPanel Margin="20">
+            <Grid DockPanel.Dock="top" VerticalAlignment="Top">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <ComboBox x:Name="ComboBox_Trier" Grid.Column="0" Margin="0,0,10,0" SelectedIndex="0">
+                    <ComboBoxItem Content="Nom"/>
+                    <ComboBoxItem Content="Auteur"/>
+                    <ComboBoxItem Content="Genre"/>
+                    <ComboBoxItem Content="Classification"/>
+                    <ComboBoxItem Content="Note"/>
+                </ComboBox>
+
+                <ComboBox x:Name="ComboBox_Ordre" Grid.Column="1" SelectedIndex="0">
+                    <ComboBoxItem Content="Croissant"/>
+                    <ComboBoxItem Content="Décroissant"/>
+                </ComboBox>
+
+                <TextBox x:Name="SearchBox" Grid.Column="3" GotFocus="SearchBox_FocusChange"  LostFocus="SearchBox_FocusChange" TextChanged="SearchBox_MakeSearch"/>
+                <StackPanel Grid.Column="3" VerticalAlignment="Center" Orientation="Horizontal"  IsHitTestVisible="False">
+                    <iconPacks:PackIconFontAwesome x:Name="SearchBox_Icon" Kind="SearchSolid" VerticalAlignment="Center" Foreground="Gray" Margin="5,0,0,0"/>
+                    <TextBlock x:Name="SearchBox_Watermark" Text="Recherche" Foreground="Gray" Margin="5,0,0,0"/>
+                </StackPanel>
+
+
+            </Grid>
+            <ScrollViewer>
+                <WrapPanel Orientation="Horizontal">
+                    <ItemsControl x:Name="ItemControl" Margin="20">
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <uc:FicheScan DataContext="{Binding}"/>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                        <ItemsControl.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <WrapPanel/>
+                            </ItemsPanelTemplate>
+                        </ItemsControl.ItemsPanel>
+                    </ItemsControl>
+                    <TextBlock x:Name="NoScan" Visibility="Collapsed" Text="Aucun Scan trouvés !&#10;Pour en ajouter veuillez lire le readme.txt qui se trouve dans le dossier Scan qui se situe dans le dossier d'installation de l'application" FontSize="14" TextWrapping="Wrap" VerticalAlignment="Center"/>
+
+                </WrapPanel>
+            </ScrollViewer>
+        </DockPanel>
+    </Grid>
+</Page>

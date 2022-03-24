@@ -1,0 +1,95 @@
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Avatar.jpg
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MyScan.deps.json
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\NoCover.png
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Assassination Classroom\Assassination Classroom.json
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Assassination Classroom\Cover.jpg
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Attack des Titans Before the Fall\Attack des Titans Before the Fall.json
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Attack des Titans Before the Fall\Cover.PNG
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Attack des Titans Before the Fall\Tome 15\01.PNG
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Attack des Titans Before the Fall\Tome 15\02.PNG
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Attack des Titans Before the Fall\Tome 15\03.PNG
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Attack des Titans Before the Fall\Tome 15\04.PNG
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Death Note\Cover.png
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Death Note\Death Note.json
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Death Note\Death_Note_-_001hq\DeathNote-01-000-01.png
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Death Note\Death_Note_-_001hq\DeathNote-01-000-02.png
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Death Note\Death_Note_-_001hq\DeathNote-01-000-03.png
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Death Note\Death_Note_-_001hq\DeathNote-01-001-01.jpg
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Death Note\Death_Note_-_002lq\DN-ch02-p01.png
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Death Note\Death_Note_-_002lq\DN-ch02-p02.png
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Death Note\Death_Note_-_002lq\DN-ch02-p03.png
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Death Note\Death_Note_-_002lq\DN-ch02-p04.png
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Death Note\Death_Note_-_003lq\DN-ch03-01.jpg
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Death Note\Death_Note_-_003lq\DN-ch03-02-03.png
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Death Note\Death_Note_-_003lq\DN-ch03-04.png
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Death Note\Death_Note_-_003lq\DN-ch03-05.png
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Death Note\Death_Note_-_008lq\DN-ch08-01.png
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Death Note\Death_Note_-_008lq\DN-ch08-02.png
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Death Note\Death_Note_-_008lq\DN-ch08-03.png
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Death Note\Death_Note_-_008lq\DN-ch08-04.png
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Death Note\Death_Note_-_009lq\DN-ch09-01.png
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Death Note\Death_Note_-_009lq\DN-ch09-02.png
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Death Note\Death_Note_-_009lq\DN-ch09-03.png
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Death Note\Death_Note_-_009lq\DN-ch09-04.png
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\HunterXHunter\Cover.jpg
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\HunterXHunter\HunterXHunter.json
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\One Piece\Cover.jpg
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\One Piece\One Piece.json
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\One Piece\Tome1\001_page_area.jpg
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\One Piece\Tome1\002_page_area.jpg
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\One Piece\Tome1\003_page_area.jpg
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\One Piece\Tome1\004_page_area.jpg
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\One Piece\Tome1\005_page_area.jpg
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\One Piece\Tome1\006_page_area.jpg
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\One Piece\Tome2\001_page_area.jpg
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\One Piece\Tome2\002_page_area.jpg
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\One Piece\Tome2\003_page_area.jpg
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\One Piece\Tome2\004_page_area.jpg
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\One Piece\Tome2\005_page_area.jpg
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\One Piece\Tome2\006_page_area.jpg
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\readme.txt
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Tokyo Ghoul\Cover.jpg
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Scan\Tokyo Ghoul\Tokyo Ghoul.json
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MyScan.exe
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MyScan.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MyScan.runtimeconfig.json
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MyScan.pdb
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\ControlzEx.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\MahApps.Metro.IconPacks.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Microsoft.Xaml.Behaviors.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\System.Text.Json.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\de\MahApps.Metro.resources.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Model.dll
+C:\Users\Lukas Blouin\Documents\Projet\MyScan\myscan\src\MyScan\bin\Release\netcoreapp3.1\publish\Model.pdb
